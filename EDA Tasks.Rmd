@@ -335,9 +335,3 @@ train_previous_agg$prev_annuity_ratio <- train_previous_agg$AMT_ANNUITY / train_
 
 > In summary, the provided information highlights the importance of data preprocessing and feature selection in a loan application dataset. It addresses the business problem of insufficient credit histories leading to loan rejections, utilizing Telco Data and Transactional Data for predicting loan repayment abilities. The unbalanced nature of the data and the accuracy of the majority class classifier are emphasized. Potential predictors and data exploration steps, including cleaning and the creation of additional columns, are also discussed, aimed at enhancing the model's ability to predict loan repayment abilities and default risk.
 
-# Group Members Contribution
-> Dominique Miranda:  Contributed to the Introduction, Task-1 and Task-2
-> Anjan Kumar: Contributed to Task-3, Task-4, Results, Formatting
-> Jenisha Rawal: Contributed to Task-5 and Task-6
-> Tarun Gulati: Contributed to Task-7, Task-8, Proof-Reading
-
